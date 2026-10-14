@@ -1,62 +1,184 @@
-# Yuvaraj Khot
+ <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Progress;Building+Products%2C+Not+Just+Projects;Exploring+AI%2C+Cloud+%26+Systems;Thinking+Like+a+Founder" alt="Typing SVG" />
-</p>
+```text
+██╗   ██╗██╗   ██╗██╗   ██╗ █████╗ ██████╗  █████╗      ██╗
+╚██╗ ██╔╝██║   ██║██║   ██║██╔══██╗██╔══██╗██╔══██╗     ██║
+ ╚████╔╝ ██║   ██║██║   ██║███████║██████╔╝███████║     ██║
+  ╚██╔╝  ██║   ██║╚██╗ ██╔╝██╔══██║██╔══██╗██╔══██║██   ██║
+   ██║   ╚██████╔╝ ╚████╔╝ ██║  ██║██║  ██║██║  ██║╚█████╔╝
+   ╚═╝    ╚═════╝   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
+```
 
-<p align="center">
-  <a href="https://github.com/Yuvaraj108-khot">
-    <img src="https://img.shields.io/badge/GitHub-Yuvaraj108--khot-111827?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:yuvarajrkhot@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-111827?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### `BUILDING THINGS THAT SHOULD EXIST.`
 
----
+[ `ABOUT` ](#about) · [ `PROJECTS` ](#projects) · [ `STACK` ](#stack) · [ `CONTACT` ](#contact)
 
-### About
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=550&lines=%3E+Initializing+Yuvaraj.exe...;%3E+Building+products%2C+not+just+projects;%3E+Ideas+into+working+software;%3E+Future+founder.+Current+builder." alt="Terminal animation" />
 
-I'm an Information Science and Engineering student at **NMAMIT, graduating in 2028**, interested in building software that solves real-world problems.
-
-I enjoy taking ideas from concept to implementation — designing systems, building full-stack applications, and exploring how AI and cloud technologies can power useful products.
-
-- Building **Vishvyash ERP** — business operations software
-- Exploring **AI-powered agriculture solutions**
-- Developing web platforms for real-world use cases
-- Learning system design, cloud architecture, and scalable backend engineering
-- Long-term ambition: build a technology startup with global impact
-
-### Selected Projects
-
-| Project | What it does |
-|---|---|
-| **Vishvyash ERP** | Business workflows, invoicing, inventory, and reporting |
-| **AgroMind** | Agriculture-focused crop recommendations and soil insights |
-| **College Event Platform** | Event discovery, registrations, and management |
-| **SentinelAPK** | Android application security and malware analysis |
-
-### Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,python,java,c,mongodb,mysql,git,github,vscode&theme=dark" alt="Technologies" />
-</p>
-
-Currently exploring: **AI · Cloud Infrastructure · System Design · Cybersecurity**
-
-### GitHub Activity
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvaraj108-khot&theme=github_dark" alt="GitHub profile summary" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yuvaraj108-khot&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraj108-khot&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>Build things that matter. Learn relentlessly. Execute consistently.</i>
-</p>
+## `01 / ABOUT`
+
+```bash
+$ whoami
+```
+
+I'm **Yuvaraj Khot** — an Information Science and Engineering student at NMAMIT, graduating in 2028.
+
+I like taking ideas from zero to something real. Business software, AI experiments, agriculture technology, security tools — different problems, same obsession: **build useful things.**
+
+```text
+CURRENT STATUS  : BUILDING
+MINDSET         : PRODUCT FIRST
+LOCATION        : INDIA
+REPOSITORIES    : 24+
+MISSION         : BUILD SOMETHING THAT MATTERS
+```
+
+---
+
+## `02 / PROJECTS`
+
+> REAL PROBLEMS. REAL SOFTWARE.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `01` / Vishvyash ERP
+
+**Business operations, simplified.**
+
+ERP platform covering invoicing, inventory, GST workflows, reporting, and business operations.
+
+`ERP` `FULL STACK` `BUSINESS`
+
+</td>
+<td width="50%" valign="top">
+
+### `02` / AgroMind
+
+**Technology for smarter farming.**
+
+Agriculture application exploring crop recommendations, soil conditions, nutrients, and water requirements.
+
+`AGRITECH` `REACT` `DATA`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `03` / SentinelAPK
+
+**Exploring Android application security.**
+
+Security-focused project exploring APK analysis and malware detection.
+
+`CYBERSECURITY` `APK` `AI`
+
+</td>
+<td width="50%" valign="top">
+
+### `04` / VoiceOS
+
+**Business data, accessible by voice.**
+
+Voice assistant exploring speech streaming, LLM integration, business-data retrieval, and multi-turn conversations.
+
+`VOICE AI` `NODE.JS` `LLM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `05` / ACM NMAMIT
+
+**Building for the developer community.**
+
+Modern student chapter platform for projects, events, resources, memberships, and community engagement.
+
+`COMMUNITY` `WEB` `PRODUCT`
+
+</td>
+<td width="50%" valign="top">
+
+### `06` / Territory Run
+
+**Movement meets gamification.**
+
+An Android running and walking tracker concept with territory-based gameplay.
+
+`ANDROID` `NODE.JS` `MONGODB`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03 / STACK`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,java,python,js,ts,react,nodejs,mongodb,mysql,git,github,vscode&theme=dark&perline=6" alt="Technology stack" />
+
+</div>
+
+```text
+01  LANGUAGES       C / Java / Python / JavaScript / TypeScript
+02  FRONTEND        React / HTML / CSS
+03  BACKEND         Node.js / Express
+04  DATABASES       MongoDB / MySQL
+05  EXPLORING       AI / CLOUD / SYSTEM DESIGN / CYBERSECURITY
+```
+
+---
+
+## `04 / GITHUB`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvaraj108-khot&theme=github_dark" width="100%" alt="GitHub contribution summary" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yuvaraj108-khot&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF" height="165" alt="GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraj108-khot&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA" height="165" alt="Top languages" />
+
+</div>
+
+---
+
+## `05 / CURRENTLY.EXE`
+
+```text
+[ RUNNING ] Product development
+[ LEARNING ] Cloud architecture & system design
+[ EXPLORING ] Artificial intelligence
+[ EXPLORING ] Cybersecurity & infrastructure
+[ PLANNING ] Build a startup worth building
+```
+
+---
+
+## `06 / CONTACT`
+
+```bash
+$ ./connect.sh
+```
+
+**Have an interesting problem? Let's build something.**
+
+- GitHub: [@Yuvaraj108-khot](https://github.com/Yuvaraj108-khot)
+- Email: [yuvarajrkhot@gmail.com](mailto:yuvarajrkhot@gmail.com)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:303030&height=100&section=footer" width="100%" alt="" />
+
+`END OF TRANSMISSION_`
+
+</div>
